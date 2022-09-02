@@ -9,7 +9,7 @@
 
 </p>
 
- <img width="60%" height= "30%"  align="center" src="images/Best Pet Shop.mp4" alt="template">
+ <img width="60%" height= "30%"  align="center" src="/images/Best Pet Shop.mp4" alt="template">
 <br/>
 
  
